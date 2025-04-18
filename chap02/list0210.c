@@ -10,7 +10,7 @@ int main(void)
     printf("整数b: "); // 整数bの入力を促す
     scanf("%d", &b);
 
-    printf("aをbで割ると%dあまり%dです。\n", a / b, a % b);
+    printf("それらの平均は%fです。\n", (double)(a + b) / 2);
 
     return 0;
 }
