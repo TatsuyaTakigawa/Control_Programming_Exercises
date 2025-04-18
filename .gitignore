@@ -1,0 +1,5 @@
+# Windows 実行ファイルを無視
+*.exe
+
+# VSCode 設定を無視
+.vscode/
